@@ -30,6 +30,3 @@ This project demonstrates end-to-end data analysis from ETL to visualization, hi
 - Sales distribution by **gender**  
 - Discount usage behavior  
 - Analysis by **shipping methods** and **payment methods**  
-
----
-📊 This project demonstrates end-to-end data analysis from ETL to visualization, highlighting customer behavior and sales performance for an e-commerce business.
