@@ -1,6 +1,6 @@
-This project demonstrates end-to-end data analysis from ETL to visualization, highlighting customer behavior and sales performance for an e-commerce business.
-
 # E-commerce Sales Analysis Project  
+
+This project demonstrates end-to-end data analysis from ETL to visualization, highlighting customer behavior and sales performance for an e-commerce business.
 
 ## Tools Used  
 - **SSIS** – For data extraction and transformation from Excel to SQL Server  
